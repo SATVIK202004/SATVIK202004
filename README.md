@@ -57,14 +57,9 @@ I am an AI & ML enthusiast pursuing B.Tech in ECE (AI & Intelligent Process Auto
 - **LinkedIn:** https://linkedin.com/in/peddisetty-venkat-satvik-363903284  
 - **GitHub:** https://github.com/SATVIK202004
 
----
 
-## ⚙️ How to publish this README
-1. Create a repository named exactly `SATVIK202004` (must match your username).  
-2. Add a file called `README.md` and paste this content. Commit and push. GitHub will display it on your profile automatically.
 
----
 
-If you want, I will now:
-- generate polished README files for the three recommended repos (done below), and
-- create a single ZIP for download so you can upload them directly into new repositories or paste the markdown into GitHub web UI.
+
+
+
