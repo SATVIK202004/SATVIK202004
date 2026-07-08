@@ -79,8 +79,8 @@ const satvik: Developer = {
   education     : {
     university   : "KL University - Guntur",
     degree       : "B.Tech ECE - AI & Intelligent Process Automation",
-    cgpa         : "9.58 / 10.0",
-    graduating   : "May 2026 ✅",
+    cgpa         : "9.54 / 10.0",
+    graduating   : "April 2026 ✅",
     intermediate : "Bhashyam Junior College - 92.7%",
     schooling    : "Bhashyam High School - 94.8% (3rd Rank All-India)",
   },
