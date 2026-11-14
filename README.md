@@ -74,7 +74,7 @@ const satvik: Developer = {
 
   name          : "Peddisetty Venkat Satvik",
   location      : "Guntur, Andhra Pradesh, India 🇮🇳",
-  phone         : "+91 9347985505",
+
 
   education     : {
     university   : "KL University - Guntur",
