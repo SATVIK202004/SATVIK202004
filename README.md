@@ -667,10 +667,6 @@ const satvik: Developer = {
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📞_Phone-+91%209347985505-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a2e"/>
-
-<br/><br/>
-
 ---
 
 ### 🔒 Private Repository Access
