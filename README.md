@@ -680,7 +680,7 @@ const satvik: Developer = {
 > If you're a **recruiter, collaborator, or curious developer** who'd like to explore the source code,
 > feel free to reach out directly:
 >
-> 📧 **satvikpeddisetty20@gmail.com** &nbsp;|&nbsp; 📞 **+91 9347985505**
+> 📧 **satvikpeddisetty20@gmail.com** &nbsp;|&nbsp; 
 >
 > I'll be happy to grant access or walk you through the codebase!
 
