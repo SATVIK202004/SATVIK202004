@@ -141,7 +141,7 @@ const satvik: Developer = {
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26"/> &nbsp;Live Production Projects
 
-> 💡 **All three repos are private.** To request access, contact me at **[satvikpeddisetty20@gmail.com](mailto:satvikpeddisetty20@gmail.com)** or **📞 +91 9347985505**
+> 💡 **All three repos are private.** To request access, contact me at **[satvikpeddisetty20@gmail.com](mailto:satvikpeddisetty20@gmail.com)** 
 
 <br/>
 
