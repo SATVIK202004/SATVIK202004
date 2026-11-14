@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Peddisetty Venkat Satvik — Engineering and software portfolio</title>
+<desc id="desc">Graduate Engineer Trainee in CAE at Hyundai Mobis. Independent work in full-stack development, real-time systems and applied AI.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080e18"/><stop offset="1" stop-color="#122338"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#38bdf8" stop-opacity=".16"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+<linearGradient id="line"><stop stop-color="#7dd3fc"/><stop offset="1" stop-color="#7dd3fc" stop-opacity=".05"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#91b8dd" stroke-opacity=".05"/></pattern>
+</defs>
+<rect width="1200" height="380" rx="16" fill="url(#bg)"/>
+<rect width="1200" height="380" rx="16" fill="url(#grid)"/>
+<circle cx="1000" cy="170" r="280" fill="url(#glow)"/>
+<path d="M48 55H80" stroke="#7dd3fc" stroke-width="3"/>
+<text x="94" y="61" fill="#7dd3fc" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3">ENGINEERING / SOFTWARE / APPLIED AI</text>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="48" y="133" fill="#f1f5f9" font-size="51" font-weight="700" letter-spacing="-1.5">Peddisetty</text>
+<text x="48" y="191" fill="#f1f5f9" font-size="51" font-weight="700" letter-spacing="-1.5">Venkat <tspan fill="#7dd3fc">Satvik.</tspan></text>
+<text x="50" y="235" fill="#c0cfdf" font-size="18">Graduate Engineer Trainee · CAE · Hyundai Mobis</text>
+<text x="50" y="263" fill="#8fa6bc" font-size="16">From engineering fundamentals to working software.</text>
+<path d="M48 294H1152" stroke="#8fa6bc" stroke-opacity=".2"/>
+<text x="50" y="335" fill="#eef6ff" font-size="20" font-weight="700">03<tspan dx="12" fill="#8fa6bc" font-size="14" font-weight="400">INDEPENDENT PRODUCTS</tspan></text>
+<text x="405" y="335" fill="#eef6ff" font-size="20" font-weight="700">02<tspan dx="12" fill="#8fa6bc" font-size="14" font-weight="400">MICROSOFT CREDENTIALS</tspan></text>
+<text x="803" y="335" fill="#eef6ff" font-size="20" font-weight="700">2026<tspan dx="12" fill="#8fa6bc" font-size="14" font-weight="400">B.TECH · ECE</tspan></text>
+</g>
+<g transform="translate(995 159)" fill="none">
+<circle r="99" stroke="#7dd3fc" stroke-opacity=".12"/>
+<circle r="119" stroke="#7dd3fc" stroke-opacity=".07"/>
+<ellipse rx="143" ry="49" transform="rotate(-34)" stroke="url(#line)" stroke-width="1.3"/>
+<ellipse rx="143" ry="49" transform="rotate(34)" stroke="#7dd3fc" stroke-opacity=".35"/>
+<ellipse rx="49" ry="112" stroke="#7dd3fc" stroke-opacity=".3"/>
+<path d="M-164 0H164M0-127V127" stroke="#7dd3fc" stroke-opacity=".1" stroke-dasharray="3 6"/>
+<circle r="31" fill="#122b40" stroke="#7dd3fc" stroke-opacity=".7"/>
+<path d="M-10-8L-19 0-10 8M10-8L19 0 10 8M4-13L-4 13" stroke="#b8e8ff" stroke-width="2"/>
+<circle cx="112" cy="-66" r="4" fill="#7dd3fc"/>
+<circle cx="-112" cy="-66" r="4" fill="#f3c58d"/>
+<circle cx="0" cy="112" r="3" fill="#7dd3fc"/>
+</g>
+</svg>
